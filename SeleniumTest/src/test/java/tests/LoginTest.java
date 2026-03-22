@@ -1,3 +1,5 @@
+// Pruebas automatizadas del motor de búsqueda
+// Simula el comportamiento de un usuario en la barra de búsqueda
 package tests;
 
 import base.BaseTest;
