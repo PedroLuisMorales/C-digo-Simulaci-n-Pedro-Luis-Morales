@@ -1,3 +1,5 @@
+// Clase base para la configuración inicial del navegador
+// Se encarga de abrir y cerrar el navegador antes y después de las pruebas
 package base;
 
 import org.openqa.selenium.WebDriver;
